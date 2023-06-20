@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Yuankai Ma 10479338",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+		"axios": "^0.23.0",
+		"graphql": "^15.0.0",
+		"mongodb": "^3.5.3",
+    "redis": "^4.5.0",
+    "flat": "^5.0.2",
+    "blueimp-md5": "^2.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
