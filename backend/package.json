@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Yuankai Ma 10479338",
+  "author": "Shaohua Bi",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.18.2",
