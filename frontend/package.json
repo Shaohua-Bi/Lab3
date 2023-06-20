@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "author": "Yuankai Ma 10479338",
+  "author": "Shaohua Bi",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@apollo/client": "^3.3.15",
